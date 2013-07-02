@@ -1,0 +1,8 @@
+#eclipse project file
+.project
+
+#emacs temp files
+*~
+
+#mac file
+.DS_Store
